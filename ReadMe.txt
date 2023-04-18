@@ -1,18 +1,18 @@
-Slik spiller du:
- 1. Når du kjører koden blir du spurt om å spille Multiplayer eller mot AIen. For å spille mot AIen, trykk på 2 på keyboardet også Enter
- 2. AIen plasserer sin 'X'
- 3. Når det er din tur: trykk på 1-9 på keyboardet også Enter for å plassere en brikke
+How to play:
+ - When you run the code, you will be asked if you want to play multiplayer or against the AI. To play against the AI, press 2 on the keyboard and then Enter.
+ - The AI will place its 'X'.
+ - When it's your turn: press 1-9 on the keyboard and then Enter to place a piece.
+ 
+How the AI works:
+ - The AI places an 'X' in a corner on its first turn.
+ - If the player (you) places an 'O' in the center on their first turn, either the AI wins or it's a tie (stalemate).
+ - If the player places an 'O' outside of the center on their first turn, the AI will always win (it may result in stalemate).
 
-Slik fungerer AIen:
- - AI setter 'X' i et hjørne på den første turen
- - Viss Playeren (du) setter 'O' i midten på din første tur,    skal enten AIen vinne eller så blir det likt (stalemate)
- - Viss Playeren setter 'O' utenfor midten på din første tur, skal AIen alltid vinne (kan hende det blir stalemate)
-
-Hvordan ha best mulig sjanse mot AIen:
- - På din første tur sett 'O' i midten
- - Sett så deretter 'O' på en av sidene (ikke i hjørnet, da skal AIen vinne)
- - Håp på å få stalemate
-
-Viss du vinner:
- - Gratulerer!
- - Det er ein feil i koden
+How to have the best chance against the AI:
+ - On your first turn, place 'O' in the center.
+ - Then, place 'O' on one of the sides (not in the corner, as the AI will win).
+ - Hope for a stalemate.
+ 
+If you win:
+ - Congratulations!
+ - There is a mistake in the code.
